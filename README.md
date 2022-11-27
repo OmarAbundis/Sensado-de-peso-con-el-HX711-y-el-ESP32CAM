@@ -50,7 +50,7 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 1.  Se debe de armar el circuito electrónico mostrado en la figura, teniendo cuidado de conectar a las terminales indicadas del ESP32-CAM, y cuidar la polaridad de los dispositivos.
 
-![]()
+![A014](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A014.png)
 
 En la tabla, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el HX711.
 
