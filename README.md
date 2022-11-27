@@ -1,8 +1,8 @@
 # Sensado-de-peso-con-el-HX711-y-el-ESP32CAM
-En este trabajo se describe de qué manera se puede implementar una báscula electrónica, utilizando como elementos centrales una galga extensiométrica para 20Kg, un ADC HX711 y un ESP32CAM como elemento de control.
-
 
 ## Introducción
+
+En el presente trabajo se describe de qué manera se puede implementar una báscula utilizando una galga extensiométrica de 20Kg., de capacidad, un circuito acondicionador de señal que integra un convertidor de señal analógica a digital de 24 bits de resolución, el HX711 y como elemento para el procesado de los datos adquiridos y acondicionamiento para su envío a través del Bróker Mosquitto, el microcontrolador ESP32-CAM.
 
 ## Material necesario
 
