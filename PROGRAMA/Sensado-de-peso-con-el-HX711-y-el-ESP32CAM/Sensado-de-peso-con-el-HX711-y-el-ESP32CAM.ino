@@ -189,7 +189,6 @@ void loop()
            
                                                                                 //Se construye el string correspondiente al JSON que contiene 3 variables
     
-    //String json = "{\"id\":\"Habeetat_SensoresExt\",\"temp\":"+String(t)+",\"hum\":"+String(h)+",\"peso\":"+String(p)+"}";
     String json = "{\"id\":\"Habeetat_SensoresExt\",\"peso\":"+String(p)+"}";
     
     Serial.println(json);                                                       // Se imprime en monitor solo para poder visualizar que el string esta correctamente creado
