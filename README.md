@@ -64,6 +64,7 @@ En la tabla, se puede observar la correspondencia de las terminales que se deben
 ## Instrucciones de operación
 
 1.	Para poder operar el circuito electrónico es necesario que coloque la celda de carga entre la base de lo que será la báscula y el plato o base en donde se colocará el peso, dejando un espacio de unos 5mm, para haya espacio de la deformación de la galga y en base a esa deformación se pueda determinar el peso de la manera más fiel posible, en otras palabras, evitar roces o golpes de la base en que se coloca el objeto a determinar su peso.
+
 ![A015](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A015.JPG)
 
 ![A016](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A016.JPG)
