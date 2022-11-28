@@ -125,6 +125,18 @@ Recuerda que en la realización de tu programa, tú tienes que generar uno propi
 
 ## Preguntas frecuentes
 
+**¿Por qué no se conecta el ESP32CAM a la red por WiFi?**
+ - **R:** Verificar que en el programa de control hayas colocado correctamente el SSID y la contraseña de tu router.
+ - **R:** Verificar que tú red tenga una conexión AES-WPA2.
+ - **R:** El ESP32CAM debe de estar en un rango de no más de tres metros al router y no debe de haber piezas metálicas cercanas.
+
+**¿Por qué no se pueden observar en la consola de Ubuntu 20.04 la información de los sensores?**
+
+  - **R:** Verificar que se hayan escrito los mismos temas en los suscriptores y en los publicadores tanto en la consola como en el programa.
+  - **R:** Asegurarse de tener una regla que permita conexiones con el puerto 1883 y tener correctamente configurado el archivo **mosquitto.conf**.
+  - **R:** Asegurarse que se tenga la IP más reciente del broker público, ya que cambia con frecuencia.
+
+
 ## Créditos
 
 Profesor Hugo Vargas, instructor del curso de Internet de las Cosas impartido por la plataforma CodigoIoT.
