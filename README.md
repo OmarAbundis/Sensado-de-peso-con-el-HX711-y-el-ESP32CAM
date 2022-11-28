@@ -87,6 +87,19 @@ En la tabla, se puede observar la correspondencia de las terminales que se deben
 
 ## Instrucciones de operación
 
+Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes proceder con la verificación de su funcionamiento, de la siguiente manera:
+
+1. Ve a la terminal con que cuenta el IDE de Arduino.
+
+2. Asegúrate de que este a la velocidad de 115200.
+
+3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
+
+![A020](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A020.JPG)
+
+4. Y si todo ha salido bien, se observará el desplegado de los datos.
+
+![A021](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A021.JPG)
 
 ## Resultados
 
