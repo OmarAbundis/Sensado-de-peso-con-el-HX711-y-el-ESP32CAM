@@ -71,8 +71,35 @@ En la tabla, se puede observar la correspondencia de las terminales que se deben
 
 ![A017](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A017.JPG)
 
-2.	Ahora hay que cargar el programa de control para realizar pruebas de registro y verificación de peso.
+2. Abrir su IDE de Arduino, elegir el microcontrolador a utilizar, ESP32-CAM, y escribir el [código de control](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/PROGRAMA/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM.ino)
 
+![A018](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A018.JPG)
+
+3. Corroborar que no haya errores de sintaxis.
+
+4. Conectar su ESP32-CAM mediante el cable USB a USB mini.
+
+5. Poner en modo de programación tu ESP32-CAM.
+
+6. Cargar el programa de control.
+
+![A019](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A019.JPG)
+
+## Instrucciones de operación
+
+Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes proceder con la verificación de su funcionamiento, de la siguiente manera:
+
+1. Ve a la terminal con que cuenta el IDE de Arduino.
+
+2. Asegúrate de que este a la velocidad de 115200.
+
+3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
+
+![A020](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A020.JPG)
+
+4. Y si todo ha salido bien, se observará el desplegado de los datos.
+
+![A021](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A021.JPG)
 
 ## Resultados
 
