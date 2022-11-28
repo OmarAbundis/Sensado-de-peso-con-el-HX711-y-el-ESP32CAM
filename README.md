@@ -123,6 +123,8 @@ Recuerda que en la realización de tu programa, tú tienes que generar uno propi
 
 ![A025](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A025.JPG)
 
+**Nota** *El valor que se observa de medida de peso esta expresada en gramos.*
+
 ## Preguntas frecuentes
 
 **¿Por qué no se conecta el ESP32CAM a la red por WiFi?**
