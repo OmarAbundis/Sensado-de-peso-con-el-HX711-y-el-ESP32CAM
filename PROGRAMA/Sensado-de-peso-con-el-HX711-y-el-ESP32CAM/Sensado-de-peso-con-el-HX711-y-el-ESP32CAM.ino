@@ -151,7 +151,7 @@ void setup()
   delay(250);                                                                   // Espera bloqueante de 250ms, para estabilizar.
   
   Serial.print("Lectura del valor del ADC:   ");                                // Lectura inicial del ADC del HX711, para la tara.
-  Serial.println(balanza.read());                                               // Proceso de delctua inicial
+  Serial.println(balanza.read());                                               // Proceso de de lectura inicial
   Serial.println("No ponga ningún objeto sobre la balanza");
   Serial.println("Destarando...");
   balanza.set_scale(105.853);
