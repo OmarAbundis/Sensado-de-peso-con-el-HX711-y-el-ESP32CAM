@@ -103,10 +103,28 @@ Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes 
 
 ## Resultados
 
-## Evidencias
+Para corroborar que se está transmitiendo correctamente el dato correspondiente al peso del objeto, el procesado y transmisión por WI-FI por medio del ESP32-CAM:
+
+1.	Se abre una terminal en Ubuntu 20.04
+
+![A022](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A022.JPG)
+
+2.	Se realiza la subscripción al Bróker que se estableció en el programa.
+
+Parte del programa en donde se realizó la subscripción realizada en el programa.
+
+![A023](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A023.JPG)
+
+Recuerda que en la realización de tu programa, tú tienes que generar uno propio.
+
+![A024](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A024.JPG)
+
+3.	Subscripción en la terminal. Y si todo se ha realizado de manera correcta, se observarán los datos que se están transmitiendo y ya puedes someter el circuito electrónico para la adquisición del peso de un cuerpo, a pruebas de funcionamiento.
+
+![A025](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A025.JPG)
 
 ## Preguntas frecuentes
 
-## Compatibilidad
-
 ## Créditos
+
+Profesor Hugo Vargas, instructor del curso de Internet de las Cosas impartido por la plataforma CodigoIoT.
