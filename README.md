@@ -71,7 +71,14 @@ En la tabla, se puede observar la correspondencia de las terminales que se deben
 
 ![A017](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A017.JPG)
 
-2.	Ahora hay que cargar el programa de control para realizar pruebas de registro y verificación de peso.
+2. Abrir su IDE de Arduino, elegir el microcontrolador a utilizar, ESP32-CAM, y escribir el [código de control]()
+
+Corroborar que no haya errores de sintaxis.
+
+Conectar su ESP32-CAM mediante el cable USB a USB mini.
+Poner en modo de programación tu ESP32-CAM.
+Cargar el programa de control.
+Instrucciones de operación
 
 
 ## Resultados
