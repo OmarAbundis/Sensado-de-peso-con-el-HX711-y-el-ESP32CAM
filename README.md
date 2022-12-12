@@ -1,4 +1,4 @@
-# Sensado-de-peso-con-el-HX711-y-el-ESP32CAM
+# Sensado de peso con el HX711 y el ESP32CAM
 
 ## Introducción
 
@@ -91,13 +91,13 @@ Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes 
 
 1. Ve a la terminal con que cuenta el IDE de Arduino.
 
-2. Asegúrate de que este a la velocidad de 115200.
+2. Asegúrate de que esté a la velocidad de 115200.
 
 3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
 
 ![A020](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A020.JPG)
 
-4. Y si todo ha salido bien, se observará el desplegado de los datos.
+4. Y si todo ha salido bien, se observará el despliegue de los datos.
 
 ![A021](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A021.JPG)
 
@@ -109,9 +109,9 @@ Para corroborar que se está transmitiendo correctamente el dato correspondiente
 
 ![A022](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A022.JPG)
 
-2.	Se realiza la subscripción al Bróker que se estableció en el programa.
+2.	Se realiza la suscripción al Bróker que se estableció en el programa.
 
-Parte del programa en donde se realizó la subscripción realizada en el programa.
+Parte del programa en donde se realizó la suscripción realizada en el programa.
 
 ![A023](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A023.JPG)
 
@@ -119,7 +119,7 @@ Recuerda que en la realización de tu programa, tú tienes que generar uno propi
 
 ![A024](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A024.JPG)
 
-3.	Subscripción en la terminal. Y si todo se ha realizado de manera correcta, se observarán los datos que se están transmitiendo y ya puedes someter el circuito electrónico para la adquisición del peso de un cuerpo, a pruebas de funcionamiento.
+3.	Suscripción en la terminal. Y si todo se ha realizado de manera correcta, se observarán los datos que se están transmitiendo y ya puedes someter el circuito electrónico para la adquisición del peso de un cuerpo, a pruebas de funcionamiento.
 
 ![A025](https://github.com/OmarAbundis/Sensado-de-peso-con-el-HX711-y-el-ESP32CAM/blob/main/Imagenes/A025.JPG)
 
